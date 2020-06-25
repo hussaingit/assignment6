@@ -6,6 +6,7 @@ assignment no 6 (21-38)
   chapter 21-25.......
 
       Task no 1
+
     var firstName = prompt("Enter first name")
     var lastName = prompt("Enter last name")
     var fullName = firstName + " " + lastName
@@ -244,6 +245,7 @@ assignment no 6 (21-38)
                         alert(result)
 
                          Task no 5 
+                         
                         prompt("Enter Head or Tail")
 
                         var toss = Math.floor(Math.random() * 2) + 1
